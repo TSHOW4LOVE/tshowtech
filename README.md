@@ -38,9 +38,8 @@ Here are some of the technologies and tools I specialize in:
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
-- Blog/Website: [Your Blog/Website](https://www.yourwebsite.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/babatunde-shoyombo/)
+- Blog/Website: [Your Blog/Website](https://www.tshowtech.com)
 
 Feel free to reach out to me for any questions, collaboration opportunities, or to discuss exciting projects related to Cloud and DevOps.
 
@@ -58,10 +57,10 @@ Here are some of my notable GitHub projects:
    - Technologies Used: List the key technologies/tools used.
    - [Live Demo](https://www.anotherprojectdemo.com) (if applicable)
 
-You can explore more of my projects in my [GitHub repositories](https://github.com/yourusername).
+You can explore more of my projects in my [GitHub repositories](https://github.com/tshow4love).
 
 ## 📫 Contact
 
-You can reach me via email at [youremail@example.com](mailto:youremail@example.com).
+You can reach me via email at [tundeshow4tech@gmail.com].
 
 Thank you for visiting my GitHub profile! Feel free to explore my projects, contribute, or connect with me for exciting opportunities in the world of Cloud and DevOps.
